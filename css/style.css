@@ -1,0 +1,77 @@
+.logo{
+    width: 70%;
+}
+.nav-link{
+    font-size: 20px !important;
+}
+.nav-link:hover{
+    color: orange !important;
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+
+.mynav{
+    margin-left: 10%;
+}
+
+.search{
+margin: 0 auto;
+    position: relative;
+    bottom: 150px;
+
+    height: 70px;
+    padding: 10px;
+   
+}
+.foot{
+    padding-top: 10%;
+    border-top: 1px gray solid;
+}
+.first{
+    margin-left: 10%;
+}
+
+.Contact{
+    margin-left: 2%;
+}
+
+.second{
+    margin-right: 10%;
+}
+
+
+.fa-facebook , .fa-twitter{
+    color:  gray;
+    margin-top: 3%;
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+
+.fa-facebook:hover,
+.fa-twitter:hover {
+    color: white;
+    cursor: pointer;
+}
+
+
+
+button{
+    border: 0;
+    background-color: rgb(250, 222, 222);
+   
+}
+
+#myslide{
+    margin-left: 5%;
+    padding-bottom: 5%;
+    
+}
+
+#btn2{
+    color: white;
+}
+
+#btn1 {
+    color: gray;
+}
